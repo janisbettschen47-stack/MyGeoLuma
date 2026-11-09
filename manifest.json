@@ -1,0 +1,39 @@
+{
+  "name": "MyGeoLuma – Geografie lernen",
+  "short_name": "MyGeoLuma",
+  "description": "Lerne Länder, Hauptstädte und Flaggen der Welt mit Lektionen, Spielen, Sammelkarten und deinem Lernbegleiter Luma.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#EAF1FE",
+  "theme_color": "#1348A0",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/",
+  "categories": [
+    "education",
+    "games"
+  ],
+  "orientation": "any",
+  "dir": "ltr",
+  "prefer_related_applications": false
+}
